@@ -1,5 +1,11 @@
 # РИСАТЕНО
  
+Раскладка для выполнения сложных обновлениий 1с.
+
+
+
+
+
 
 
 РИСАТЕНО (__RISATENO__) - created as a rethinking of [ARTSEY](https://artsey.io/) for the Russian language. 10 keys, two for each finger.
